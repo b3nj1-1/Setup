@@ -1,6 +1,6 @@
 # Setup
 
-This repository will contain all my linux configurations
+This repository will contain all my linux configurations:
 
 * Tmux
 
